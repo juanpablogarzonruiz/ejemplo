@@ -22,7 +22,8 @@ public class MainActivity extends Activity {
         //otro nuevo
         ImageButton im= (ImageButton)findViewById(R.id.button1);
         
-        
+        //hjs
+        Button aksjka;
     }
 
 
