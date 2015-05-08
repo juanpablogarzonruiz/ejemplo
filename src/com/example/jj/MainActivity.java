@@ -1,10 +1,13 @@
 package com.example.jj;
 
 
+import android.R;
+import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 
 public class MainActivity extends Activity {
@@ -12,9 +15,13 @@ public class MainActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_list_item);
         Button miboton;
         Button elboton2;
+        Button nadaeltres;
+        //otro nuevo
+        ImageButton im= (ImageButton)findViewById(R.id.button1);
+        
         
     }
 
