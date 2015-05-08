@@ -19,11 +19,8 @@ public class MainActivity extends Activity {
         Button miboton;
         Button elboton2;
         Button nadaeltres;
-        //otro nuevo
-        ImageButton im= (ImageButton)findViewById(R.id.button1);
-        
-        //hjs
-        Button aksjka;
+        ImageButton im= (ImageButton)findViewById(R.id.button1);       
+       Button aksjka;
     }
 
 
